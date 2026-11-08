@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+build/
+dist/
+venv/
+.venv/
+.env
+config.json
+rpc.log
+*.log
+*.old
+presence_debug.json
+installer/
