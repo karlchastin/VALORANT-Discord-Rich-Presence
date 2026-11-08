@@ -1,0 +1,16 @@
+VALORANT RPC - TERMS OF USE & DISCLAIMER
+
+Please read this agreement carefully before installing or using VALORANT RPC. By installing or using this software, you agree to the terms below.
+
+1. RIOT GAMES & ANTI-CHEAT DISCLAIMER
+VALORANT RPC is a passive Discord Rich Presence integration. It only reads local Riot Client session/presence status and public game metadata to display your current mode, map, agent, rank, and match score on Discord. It does not read, hook, inject into, or modify VALORANT game memory, game files, or Riot Vanguard, and provides no gameplay advantage.
+
+According to Riot Games Customer Support and Riot's Third-Party Application policy, passive external tools that do not interact with game memory or provide an unfair advantage are not bannable. However, because this is an unofficial community project not affiliated with or certified by Riot Games, this is not 100% guaranteed. You use this software at your own discretion and risk.
+
+2. "AS IS" SOFTWARE & AUTOMATIC UPDATES
+This software is provided "AS IS", without warranty of any kind, express or implied. In no event shall the authors or contributors be liable for any claim, damages, or account actions arising from the use of this software.
+
+This software includes an automatic update system that checks official GitHub Releases and installs updates automatically to maintain compatibility with new VALORANT patches.
+
+3. TRADEMARK NOTICE
+VALORANT RPC is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and VALORANT are trademarks or registered trademarks of Riot Games, Inc.
