@@ -1,0 +1,9 @@
+urllib3
+iso8601
+requests
+pypresence
+valclient
+pystray
+psutil
+Pillow
+PyInstaller
